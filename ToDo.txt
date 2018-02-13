@@ -1,0 +1,4 @@
+Clean House,low
+Pay Bills,high
+Cook,low
+Do taxes,low
